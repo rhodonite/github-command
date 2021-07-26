@@ -4,7 +4,9 @@ Git 更換遠端伺服器倉庫網址URL
 1.確認目前Git遠端伺服器網址： git remote -v
 git remote -v
 origin  https://github.com/USERNAME/REPOSITORY.git (fetch)
+
 origin  https://github.com/USERNAME/REPOSITORY.git (push)
+
 
 
 2.更換Git遠端伺服器位網址，使用：git remote set-url
